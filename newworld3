@@ -1,0 +1,6453 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>ccfolia - logs</title>
+  </head>
+  <body>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 290[34,38,42,84,28,6,23,19,9,7] ＞ 290
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>Antonio Rodríguez (アントーニョ ロドリゲス)</span> :
+      <span>
+        10d100 (10D100) ＞ 580[51,42,29,55,68,53,74,74,43,91] ＞ 580
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC 1D100 ＞ 88
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        10d100 (10D100) ＞ 602[52,71,93,90,84,73,1,22,70,46] ＞ 602
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        5ｄ100 (5D100) ＞ 247[90,54,62,21,20] ＞ 247
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=88 【女神のご機嫌】 (1D100&lt;=88) ボーナス・ペナルティダイス[0] ＞ 72 ＞ 72 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 433[35,39,61,32,40,15,92,78,26,15] ＞ 433
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        うきうき 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(宇宙へ行..,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        征服さん 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100 【いつ来るかな？】 (1D100) ＞ 71
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>Antonio Rodríguez (アントーニョ ロドリゲス)</span> :
+      <span>
+        1d100 (1D100) ＞ 51
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1ｄ100 (1D100) ＞ 55
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1D100 (1D100) ＞ 74
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        1D100 (1D100) ＞ 69
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(やち,宇宙へ行..)]</span>
+      <span>　</span> :
+      <span>
+        探究さん 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(宇宙へ行..,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        です！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(だっくす,宇宙へ行..)]</span>
+      <span>　</span> :
+      <span>
+        信仰さん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(セラ,宇宙へ行..)]</span>
+      <span>　</span> :
+      <span>
+        商売さん 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(だっくす,宇宙へ行..)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        はーい！ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(やち,宇宙へ行..)]</span>
+      <span>Antonio Rodríguez (アントーニョ ロドリゲス)</span> :
+      <span>
+        はーい！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(宇宙へ行..,隷属)]</span>
+      <span>　</span> :
+      <span>
+        隷属さん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(だっくす,宇宙へ行..)]</span>
+      <span>　</span> :
+      <span>
+        ☻ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(やち,宇宙へ行..)]</span>
+      <span>　</span> :
+      <span>
+        ☻ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(宇宙へ行..,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        ☻ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        概要の回収だ！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        かっけぇ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        アメリゴ・ヴェスプッチ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        俺船長！ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ぱちぱちぱち 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        どーも、どーもな！ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        船長にかんぱーい！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        かんぱ－い！ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        乾杯・・・！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ★私掠船「地球号」<br>MOV：10<br>ビルド：20<br>ヘルス：-2～+2（初期値0）<br>食糧：7バレル<br>砲：1D10ビルド・ダメージ※ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ◆準備判定<br>各探索者が一度ずつ準備判定ができる。<br>使える技能は〈機械修理〉〈信用〉〈サバイバル（洋上）〉のいずれか。<br>成功した者は、それぞれ以下の効果からひとつを選べる。<br><br>・MOV+1<br>・ビルド最大値+1D3<br>・食糧+1D3バレル 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=30 【サバイバル（洋上）】 (1D100&lt;=30) ボーナス・ペナルティダイス[0] ＞ 90 ＞ 90 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=40 【サバイバル（洋上）】 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 69 ＞ 69 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=75 【機械修理】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 56 ＞ 56 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d3 (1D3) ＞ 1
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 地球号 ] 食糧 : 7 → 8 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=65 サバイバル（洋上） (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 97 ＞ 97 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=75 【サバイバル（洋上）】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 30 ＞ 30 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D3 【ビルド】 (1D3) ＞ 3
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ヴェリタ・ルーチェ<br>Verità・luce<br>真実の光 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        お船の名前にどうすか…… 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        かっこいい！ 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        いいですね！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→ナビゲート<br>征服→アクシデント<br>隷属→ナビゲート<br>商売→医学<br>信仰→医学 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 46 ＞ 46 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 8 → 7 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=80 【自然】 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 73 ＞ 73 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=75 【サバイバル（洋上）】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 49 ＞ 49 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=71 医学 (1D100&lt;=71) ボーナス・ペナルティダイス[0] ＞ 38 ＞ 38 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=75 【医学】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 96 ＞ 96 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC1&lt;=75 【サバイバル（洋上）】 (1D100&lt;=75) ボーナス・ペナルティダイス[1] ＞ 78, 48 ＞ 48 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC-1&lt;=75 【サバイバル（洋上）】 (1D100&lt;=75) ボーナス・ペナルティダイス[-1] ＞ 78, 78 ＞ 78 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        未知の調査ルール<br>チェックポイントでは、ひとり1回ずつ「未知の調査」判定を行うことができる。<br>「未知」とは調査可能な情報項目である。<br><br>それぞれの「未知」には、調査するために必要な技能が付記されている。<br>全ての「未知」には情報の深度が3段階ある。<br>同じ「未知」を複数回調べることで、情報の深度を深めていくことができる。<br>（レギュラーなら1段階、ハードなら2段階、イクストリームなら3段階）<br><br>未知には以下のような物がある。<br><br>①チェックポイントの「未知」<br>各チェックポイントで提示される、その場所でしか得られない情報。<br>得られた情報は全プレイヤーに共有される。<br><br>②秘密の「未知」<br>各自のハンドアウトに記載されている秘密の情報項目。<br>この未知は、基本的には情報を秘匿したまま、自分だけが入手することになる。<br>情報を公開すれば他の人に調べてもらうことも可能だが、公開した相手には得た情報の内容も公開されるだろう。<br><br>③NPCの「未知」<br>船員NPC※のプロフィールや、抱えている秘密などを表す項目。<br>開いた情報によってはイベントが発生することもある。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「夜間の見張り」<br>調査技能：〈目星〉 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆クルー「アメリゴ・ヴェスプッチ」<br>調査技能：対人関係技能 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→自分<br>征服→チェックポイント<br>隷属→自分<br>商売→NPC<br>信仰→チェックポイント 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ちょっと家族フラががが 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        ~40分目安で休憩 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 95 ＞ 95 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 99 ＞ 99 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        わあ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        ええええええ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        あっぶな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>　</span> :
+      <span>
+        わお 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        あら 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=75 魅惑 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 97 ＞ 97 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 42 ＞ 42 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【目星】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 76 ＞ 76 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「夜間の見張り」<br>調査技能：〈目星〉<br>・深度１<br>　こちらに向かってくる船影を発見。十数隻もの海賊船だ。<br>　だが、気がつくとそれらは忽然と姿を消していた。幻でも見たのだろうか？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        俺じゃ～～～ん 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        は～～～～～～～ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        なるほどね 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→<br>征服→アクシデント左<br>隷属→<br>商売→アクシデント右<br>信仰→アクシデント控えor医学 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 29 ＞ 29 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=75 魅惑 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 52 ＞ 52 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 81 ＞ 81 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 7 → 6 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=30 【サバイバル（洋上）】 (1D100&lt;=30) ボーナス・ペナルティダイス[0] ＞ 85 ＞ 85 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=75 【医学】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 61 ＞ 61 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「孤島探索」<br>調査技能：〈目星〉〈サバイバル（洋上）〉〈自然〉 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→自分<br>征服→チェックポイント<br>隷属→チェックポイント<br>商売→NPC<br>信仰→自分 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 97 ＞ 97 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 56 ＞ 56 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        やったね 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        どうしてぇ？？？ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        神の声が聞こえます 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        ・深度１<br>　コロンブスが発見したのは、アジア・アフリカ・ヨーロッパのいずれにも属さない新大陸であるという仮説。教会の教えを否定する異端の説だ。 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        なんと 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        一個目のチェケポでアルバは「もしあれが思うやつらなら狙ってきてんのかなぁ、やだなぁ」と思っている 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=75 魅惑 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 70 ＞ 70 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆クルー「アメリゴ・ヴェスプッチ」<br>調査技能：対人関係技能<br>・深度１<br>　スペイン王直属の地理学者・航海士。フィレンツェ生まれ。<br>　さまざまな学問分野に精通する、高名な学者だ。<br>　王室はコロンブスの後釜として彼を呼んだのではないかと噂されている。 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=80 【自然】 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 67 ＞ 67 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=75 【サバイバル（洋上）】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 65 ＞ 65 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「孤島探索」<br>調査技能：〈目星〉〈サバイバル（洋上）〉〈自然〉<br>・深度１<br>　孤島内で、新鮮な水や果物などを発見した。食糧+3バレル &amp; ヘルス+1。<br><br>・深度２<br>　無人島だと思われたこの島で生活する、半裸の遭難者を発見した。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 6 → 9 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=50 【聞き耳】 (1D100&lt;=50) ボーナス・ペナルティダイス[0] ＞ 55 ＞ 55 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 75 ＞ 75 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d100&lt;=70 【正気度ロール】 (1D100&lt;=70) ＞ 33 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100&lt;=75 【正気度ロール】 (1D100&lt;=75) ＞ 74 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 70 → 69 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] SAN : 75 → 74 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ＞＞ 死んでる人がいた ＜＜ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1d100&lt;=85 【正気度ロール】 (1D100&lt;=85) ＞ 91 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d100&lt;=80 【正気度ロール】 (1D100&lt;=80) ＞ 63 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=70 正気度ロール (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 79 ＞ 79 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 70 → 69 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] SAN : 85 → 84 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        神の再誕 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【芸術（絵画）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 56 ＞ 56 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=70 機械修理 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 70 ＞ 70 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 386[76,82,11,13,53,47,9,61,21,13] ＞ 386
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 580[50,36,69,45,98,29,18,72,95,68] ＞ 580
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        10d100 (10D100) ＞ 478[86,33,17,77,71,57,40,8,72,17] ＞ 478
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        今日のあなたの運勢は……？ 
+【大吉】
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        10d100 (10D100) ＞ 570[83,54,63,70,24,69,22,3,100,82] ＞ 570
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→ナビゲート<br>征服→アクシデント右<br>隷属→アクシデント右<br>商売→アクシデント左<br>信仰→アクシデント左 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC2&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 5, 85, 75 ＞ 5 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC2&lt;=70 EDU (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 82, 32, 72 ＞ 32 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC2&lt;=70 【ナビゲート】 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 45, 5, 95 ＞ 5 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC2&lt;=40 【サバイバル（洋上）】 (1D100&lt;=40) ボーナス・ペナルティダイス[2] ＞ 87, 47, 7 ＞ 7 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC2&lt;=50 【サバイバル（洋上）】 (1D100&lt;=50) ボーナス・ペナルティダイス[2] ＞ 68, 18, 78 ＞ 18 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 9 → 11 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        かわいい 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→自分<br>征服→自分<br>隷属→自分<br>商売→自分<br>信仰→NPC 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【説得】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 73 ＞ 73 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 59 ＞ 59 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 58 ＞ 58 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        「魚人海賊団」／調査技能：対人関係技能、戦闘技能 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        やっと成功した～～；； 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=70 【近接戦闘（斧）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 47 ＞ 47 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ふむ…… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：探究「コロンブスの書簡」<br><br>・深度１<br>　君は独自のルートで、コロンブスが王室とやりとりをしていた書簡を入手した。<br>　彼は当初こそ王室の厚い支援を受けていたが、帰国後の英雄扱いも長くは続かなかった。<br>　徐々に王室の態度は変化。度重なる裏切りにあい、人間不信に陥っていたようだ。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：征服「魚人海賊団」<br><br>・深度１<br>　魚人たちの身体能力は人間よりも高い。また、水中で息継ぎもせずに自由に動き回れる。<br>　怪力で人を海に引きずり込んでは溺死させる戦法をとってくる。 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        ｂ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：隷属 「西欧人が何をしたか」<br><br>・深度１<br>　西欧人とインディオたちのファーストコンタクトは、比較的良好なものであった。<br>　しかし、インディオたちが奴隷として連れて帰られたころから関係が悪化してきた。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ゆﾞるﾞせﾞんﾞ 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=70 機械修理 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 25 ＞ 25 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        メモっとこ、なるほどね……………………………… 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        うんうん… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+         
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ＜読んだぜ 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+         
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ＜読んだぜ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：商売「呪われた黄金」<br><br>・深度１<br>　コロンブスが「インドに黄金の国ジパングを見つけた」と主張し、<br>　そこから持ち帰った黄金の数々。その多くが海洋生物を模した黄金像だった。<br><br>・深度２<br>　コロンブスから黄金を受け取った王侯貴族たちも、呪いにかかっている。<br>　王命による今回の航海の真の目的は、この呪いの原因解明だろう。 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        なるほどね 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC-2&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[-2] ＞ 61, 91, 41 ＞ 91 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        1d3 (1D3) ＞ 3
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ビルド : 23 → 20 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 11 ＞ 11 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=65 目星 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 84 ＞ 84 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=40 【目星】 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 5 ＞ 5 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【目星】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 27 ＞ 27 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 50 ＞ 50 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] いいことチケ : 1 → 2 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        これ、おれ、きょうふじゃね？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        こわ～い 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=65 【知識】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 84 ＞ 84 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=75 【知識】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 80 ＞ 80 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=90 【知識】 (1D100&lt;=90) ボーナス・ペナルティダイス[0] ＞ 72 ＞ 72 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=75 【知識】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 65 ＞ 65 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        セントエルモの火 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        怖くねぇ！いける 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        めっちゃ！怪しい！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        十字架…… 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 55 ＞ 55 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 47 ＞ 47 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【目星】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 7 ＞ 7 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=65 目星 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 6 ＞ 6 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 47 ＞ 47 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【アイデア】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 25 ＞ 25 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=80 【アイデア】 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 44 ＞ 44 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=80 アイデア (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 41 ＞ 41 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=75 【アイデア】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 92 ＞ 92 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=65 【アイデア】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 51 ＞ 51 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        上は恨みで下は羨望とかかな… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        さっきのNPCも長老も左胸に手のペイントがあるな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        「これは彼らに伝えずともよい。<br>若い者は彼と、彼の言う宗教に耳を貸した。私はそうしなかった」 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        「そうなんですね。私はコロンブスに連れ去られたの。何があったのか教えてくれませんか？私は何を恨んで、何を信じればいいかわからなくなっちゃった。」 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        長老はあなたに耳打ちした。<br>「近くの村が、西欧人による虐殺で滅ぼされた。あなたの村かはわからないが、あなたも用心なさい」 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        「…わかりました。ありがとうございます。」 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        マカナが全部翻訳してるかアイデア振っていいですか？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>　</span> :
+      <span>
+        いいですよ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=65 【アイデア】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 59 ＞ 59 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>　</span> :
+      <span>
+        一部翻訳していないのでは、という間があったように感じられる。<br>また、一瞬長老がマカナに耳打ちをしていたように見えた。 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        了解です 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        シナイ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆新世界探索<br>大陸滞在期間は3ラウンド。<br>その間、探索者たちはそれぞれ探索をしたり、帰りの出航の準備をしたりできる。<br>できることは以下の通り。<br><br>・探索：原住民の催事場<br>・探索：シナイと呼ばれた丘<br>・探索：海岸線<br>・食糧調達：〈サバイバル〉／成功で食糧+1D3バレル。イクストリームで+3バレル。<br>・船の修理：〈機械修理〉／成功でビルド1D6回復、イクストリームで6点回復<br>・ヘルスの回復：〈医学〉／成功で+1、イクストリームで+2<br>・秘密の「未知」の調査 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        すみません間違えて。。。気を付けます 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        全然大丈夫です！私もいくどとなくやらかしたので…ｗ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→シナイ<br>征服→シナイ<br>隷属→シナイ<br>商売→催事場<br>信仰→催事場 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        すげ～ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        雰囲気かっこいいな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        KUSA 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1d100&lt;=84 【正気度ロール】 (1D100&lt;=84) ＞ 6 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ダイス目に「布教してみせる」が出てる 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] SAN : 84 → 83 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「異教の風習」<br>調査技能：〈対人関係技能〉〈オカルト〉〈鑑定〉〈芸術〉〈自然〉 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        お～～～未知タイプか 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        やっぱり俺にできることはなかったか 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【芸術（絵画）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 83 ＞ 83 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        手ごわいね～～ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        撫でた 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=75 魅惑 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 59 ＞ 59 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        アントーニョくんよち 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        えら～い 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「異教の風習」<br>・深度１<br>　異形の魚人や、巨大なタコを象った黄金像が祀られている。<br>　この地の信仰は、海と縁が深いらしい。 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        ぐすん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ヌールねぇさんえら！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        くさ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        あかんやつ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        タコやば 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        海かぁ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        ウケる、行かなくてよかった 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        いあいあくとぅ……………………………… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        んふ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        これは情報を得たうえで行きたいよ～ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        覚悟がいるもんな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        ワンチャンここを征服して戦う夢が潰えるね 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=75 【機械修理】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 84 ＞ 84 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        アントーニョさんまで！？ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        労働の価値ね… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        ！？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        教え、やはり正しい 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        ふふん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        マラソン大会か？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        ｗｗｗ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「コロンブスの動向」<br>調査技能：対人関係技能、〈オカルト〉〈芸術〉 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【芸術（剣舞）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 98 ＞ 98 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] いいことチケ : 2 → 1 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【芸術（剣舞）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 6 ＞ 6 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        ｴﾗｲ！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        ＞＞荷物持ち＜＜ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「コロンブスの動向」<br>・深度１<br>　シナイ、約束の地、黄金の子牛像……いずれも聖書にある『出エジプト』に登場するものだ。<br>　建造物のいたるところに描かれている目は、<br>　キリスト教における「神の摂理（プロビデンス）の目」に酷似している。<br><br>・深度２<br>　コロンブスは、自身をモーセのような「預言者」だと思いこんでいるのではないだろうか？<br><br>・深度３<br>　インディオたち曰く、この地にたどり着いた当初、コロンブスは執拗に金を探していた。<br>　インディオたちから「金は忌むべき種族が海から持ってくる」という情報を得た後、周辺海域を船で調べ回る中で、「深きものども」と呼ばれるもうひとつの原住民族と交流を持ったらしい。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        深きものどもォ？！？！？？！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        核心ダァ… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        「深きものども」は海の中から来るんよね？？？？？？？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        そよ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        つなげて考えるよなぁそら 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        自分の「未知」の探索って相手の同意が得られたら複数人で行うことはできますか？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探求→自分の未知<br>征服→海岸線<br>隷属→催事場<br>商売→海岸線<br>信仰→催事場 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 25 ＞ 25 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：探究「コロンブスの書簡」<br><br>・深度２<br>　彼は2つの航海誌を用意していた。ひとつは真実の。ひとつは嘘の。<br>　書簡の中ではそれらがごちゃ混ぜに記載されており、虚実が分からなくなっている。<br>　その中には、現実とは思えぬ悪夢のような光景についても記されていた。<br><br>・深度３<br>　記述を分析すればするほど、不可解な結論にたどり着く。<br>　彼が見た幻覚としか思えぬ記述こそ、真実の航海誌のものではないだろうか？<br>　煮えたぎる血の海、全てを飲み込む大渦……それらがこの先に待ち構えているというのか？<br>　※この情報を得た場合、即座に〈正気度〉ロール（1／1D6）<br>　※今後、あなたが行う「リアリティー・チェック」に常時ボーナス・ダイス+1 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d100&lt;=80 【正気度ロール】 (1D100&lt;=80) ＞ 51 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,やち)]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] SAN : 80 → 79 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        アントーニョくん偉し 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=80 【自然】 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 52 ＞ 52 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【芸術（絵画）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 69 ＞ 69 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        偉すぎ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        えらい～！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「異教の風習」<br>・深度２<br>　異形の神の黄金像を、五芒星の奇妙な模様が彫り込まれた石がぐるりと取り囲んでいた。<br>　長老曰く、これは《旧き印》というものらしい。<br><br>・深度３<br>　インディオたちは、祀っている異形の神々の全てを信奉しているわけではないらしい。<br>　彼らが行う儀式の中には、神を讃えるものと退けるものが混在している。<br>　どうやら彼らは、未知を未知のまま自然の一部として受け入れ、<br>　つかず離れず、適切な距離をとった上で共存しているようだ。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        えらい～～～～～～！！！<br>酒の差し入れをしとこう…… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ハ～～～～ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        なるほどな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        左上おもろ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ＞＞名前でとる＜＜ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        お！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ええなぁ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        長老♡♡♡ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ありがとう♡♡♡♡ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        あっ、ふ～ん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        まだ19歳、そらイイ女ににぱにぱしますよ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=5 【歴史】 (1D100&lt;=5) ボーナス・ペナルティダイス[0] ＞ 57 ＞ 57 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=5 歴史 (1D100&lt;=5) ボーナス・ペナルティダイス[0] ＞ 12 ＞ 12 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        黄金～！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        わぁ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        それらがコロンブスがもたらした「呪いの黄金」と同じものだと分かる。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 8 ＞ 8 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=65 目星 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 10 ＞ 10 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        おお～ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        えらすぎ～！ 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        だろうなー 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        偉杉くん 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        はわわ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        えっこわ・・・ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        へ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        3/28木 21:00~ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 668[89,94,17,65,92,36,96,52,91,36] ＞ 668
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        10d100 (10D100) ＞ 490[12,98,62,35,41,97,59,57,19,10] ＞ 490
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        「コロンブスの書簡」 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：探究「コロンブスの書簡」<br>調査技能：ナビゲート、目星<br>・深度１<br>　君は独自のルートで、コロンブスが王室とやりとりをしていた書簡を入手した。<br>　彼は当初こそ王室の厚い支援を受けていたが、帰国後の英雄扱いも長くは続かなかった。<br>　徐々に王室の態度は変化。度重なる裏切りにあい、人間不信に陥っていたようだ。<br><br>・深度２<br>　彼は2つの航海誌を用意していた。ひとつは真実の。ひとつは嘘の。<br>　書簡の中ではそれらがごちゃ混ぜに記載されており、虚実が分からなくなっている。<br>　その中には、現実とは思えぬ悪夢のような光景についても記されていた。<br><br>・深度３<br>　記述を分析すればするほど、不可解な結論にたどり着く。<br>　彼が見た幻覚としか思えぬ記述こそ、真実の航海誌のものではないだろうか？<br>　煮えたぎる血の海、全てを飲み込む大渦……それらがこの先に待ち構えているというのか？<br>　※この情報を得た場合、即座に〈正気度〉ロール（1／1D6）（先に内容について警戒していた場合1/1d3）<br>　※今後、あなたが行う「リアリティー・チェック」に常時ボーナス・ダイス+1<br> 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=69 正気度ロール (1D100&lt;=69) ボーナス・ペナルティダイス[0] ＞ 28 ＞ 28 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100&lt;=74 【正気度ロール】 (1D100&lt;=74) ＞ 64 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1d100&lt;=83 【正気度ロール】 (1D100&lt;=83) ＞ 16 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d100&lt;=69 【正気度ロール】 (1D100&lt;=69) ＞ 63 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 69 → 68 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] SAN : 74 → 73 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] SAN : 83 → 82 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 69 → 68 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        秘匿タブ開く用 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        つまり復讐がしやすくなると 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈正気度〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 88 ＞ 88 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        1d3 (1D3) ＞ 2
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アメリゴ・ヴェスプッチ ] SAN : 70 → 68 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        うぅぅぅぅぅんんんん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        言う？言わない？葛藤していくスタイル 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：商売「呪われた黄金」<br>調査技能：オカルト、鑑定 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→信仰<br>征服→自分<br>隷属→自分<br>商売→自分<br>信仰→自分<br>NPC→信仰 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        やばいな、どうしようマジで 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        こいつがなんもいわない！すごい！ﾍﾟﾁ！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：信仰「新大陸仮説」<br>調査技能：オカルト、聞き耳 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        絶対調べた方が良いんだよな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        魚人海賊団絶対出るもん 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>ゆば</span> :
+      <span>
+        殴り飛ばす気で来てるからねゆばが 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        その特産品が人だったってね… 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 63 ＞ 63 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 94 ＞ 94 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=70 【威圧】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 58 ＞ 58 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        タスケテ… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        う～～～～～ん 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ハードにするか否か 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        10D100 (10D100) ＞ 404[79,25,29,45,24,4,90,75,2,31] ＞ 404
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：隷属 「西欧人が何をしたか」<br>・深度２<br>　ある時期を境に、西欧人たちはインディオの統治に暴力を駆使するようになった。<br>　噂によると、虐殺された部族もあるらしい。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ちょっと……ﾔ…… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        うーーーーん 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        35やね 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 393[44,41,1,82,14,43,42,96,29,1] ＞ 393
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 474[36,42,52,14,2,72,55,22,87,92] ＞ 474
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 511[8,39,45,38,82,88,75,97,7,32] ＞ 511
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 587[63,85,41,14,92,37,81,67,93,14] ＞ 587
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        これ情報抜かないほうがいいやつ…！？<br>沈めちゃう！？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        23いるのか………… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        そうですね 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] いいことチケ : 1 → 0 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=70 【威圧：幸運1使用によりハードへ】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 36 ＞ 36 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        幸運使う！！！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1使う！！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ハードになりますか！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        うん！1減らしてくーださい 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] 幸運 : 70 → 69 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=5 (1D100&lt;=5) ボーナス・ペナルティダイス[0] ＞ 89 ＞ 89 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        10D100 (10D100) ＞ 411[95,15,35,7,56,73,20,58,1,51] ＞ 411
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 336[42,16,43,27,93,12,8,48,32,15] ＞ 336
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        10d100 (10D100) ＞ 602[67,49,34,87,91,39,45,35,97,58] ＞ 602
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=5 (1D100&lt;=5) ボーナス・ペナルティダイス[0] ＞ 78 ＞ 78 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 68 → 67 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 32 ＞ 32 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：信仰「新大陸仮説」<br><br>・深度２<br>　仮説の出どころが判明した。アメリゴ・ヴェスプッチだ。<br>　彼は教会への反逆者であり、本当の目的を隠して王室に取り入っている。<br>　彼を懐柔するか、始末するべきか。注意深く様子を見る必要がある。<br><br>・深度３<br>　そもそも、三大陸世界観は真実なのか。<br>　調べれば調べるほど、三大陸世界観は古代からの伝統的な価値観のみに立脚しており、<br>　これが神の教えとする根拠がほとんど見当たらない。<br>　人が強く信じ込んでいるだけの無根拠なものなのではないか？<br>　※今後、あなたは一度だけ「狂気」を打ち消すことができる。 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        お前…ッッ！ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        どんな気持ちで連れて来られて…！ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=75 【機械修理】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 32 ＞ 32 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d6 (1D6) ＞ 1
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ビルド : 20 → 21 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=60　〈サバイバル（洋上）〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 4 ＞ 4 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        1d3+3 (1D3+3) ＞ 2[2]+3 ＞ 5
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 11 → 16 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：征服「魚人海賊団」<br><br>・深度２<br>　魚人たちは、海底に棲む異形の神と取引をして「不死」になったという噂がある。<br><br>・深度３<br>　不死の怪物である彼らも、元々は「人間」だったらしい。<br>　彼らに不死性を与えている神の力を断ち切りさえすれば、征服可能なはずだ。<br>　※今後、〈砲〉または〈戦闘技能〉での判定に一度だけボーナス・ダイス+2<br> 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        んふ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ふふふ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        元が人間だろうと関係ないが？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        言わないなこれは……言わない方が正解かも、同じ人間殺すのは抵抗あるやついるよなたぶん？ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        これ、途中までついてきて貰えてたら「ああ…」って目でちらりと見てたでしょうね… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        殺そう！(良い笑顔) 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        これ新大陸だって知れ渡ったらもっと人が来て無茶苦茶にされるとか考えちゃうな… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 392[37,92,69,33,2,48,35,21,14,41] ＞ 392
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        元の土地に戻って名誉を得る、そしたらでかい船に乗れる<br>そうしたら……復讐のための確実な手段に近付く…… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        あわ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        やば 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        ??! 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d100&lt;=68 【正気度ロール】 (1D100&lt;=68) ＞ 94 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d100&lt;=79 【正気度ロール】 (1D100&lt;=79) ＞ 93 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1d100&lt;=82 【正気度ロール】 (1D100&lt;=82) ＞ 90 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100&lt;=73 【正気度ロール】 (1D100&lt;=73) ＞ 20 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=67 正気度ロール (1D100&lt;=67) ボーナス・ペナルティダイス[0] ＞ 25 ＞ 25 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1ｄ6 (1D6) ＞ 1
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1D6 (1D6) ＞ 5
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] 幸運 : 69 → 68 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d6 (1D6) ＞ 4
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 67 → 66 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] 幸運 : 68 → 69 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 68 → 67 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] SAN : 73 → 72 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] SAN : 79 → 75 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] SAN : 82 → 77 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=75 【アイデア】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 64 ＞ 64 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        【狂気関連】<br>　・狂気の発作（リアルタイム）（Bouts of Madness Real Time）　BMR<br>　・狂気の発作（サマリー）（Bouts of Madness Summary）　BMS<br>　・恐怖症（Sample Phobias）表　PH／マニア（Sample Manias）表　MA 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        BMR 狂気の発作（リアルタイム）(7) ＞ パニックになって逃亡する：探索者は利用できるあらゆる手段を使って、可能なかぎり遠くへ逃げ出さずにはいられない。それが唯一の車両を奪って仲間を置き去りにすることであっても。探索者は1D10ラウンドの間、逃げ続ける。(1D10＞4ラウンド)
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        「赤い瞳」 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>　</span> :
+      <span>
+        choice(表,裏) (choice(表,裏)) ＞ 裏
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+         
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        choice(表,裏) (choice(表,裏)) ＞ 裏
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        裏：「教会の世界観（イデオロギー／信念）」を「神への不信（恐怖症）」へ修正する。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ₍₍⁽⁽(⬜)₎₎⁾⁾ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=85 【幸運】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 9 ＞ 9 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→<br>征服→アクシデントしけ<br>隷属→<br>商売→アクシデント霧<br>信仰→アクシデント霧<br>NPC→天文学 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈天文学〉<br>CC&lt;=60　〈医学〉<br>CC&lt;=60　〈サバイバル（洋上）〉<br>CC&lt;=60　〈信用〉<br>CC&lt;=60　〈水泳〉<br>CC&lt;=50　〈説得〉<br>CC&lt;=40　〈操縦（船）〉<br>CC&lt;=70　〈ナビゲート〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 46 ＞ 46 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC2&lt;=77 【リアリティチェック】 (1D100&lt;=77) ボーナス・ペナルティダイス[2] ＞ 97, 27, 87 ＞ 27 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC2&lt;=70 【目星】 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 76, 56, 36 ＞ 36 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC2&lt;=72 【リアリティー・チェック】 (1D100&lt;=72) ボーナス・ペナルティダイス[2] ＞ 32, 42, 12 ＞ 12 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC2&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 46, 26, 96 ＞ 26 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC2&lt;=68　〈リアリティーチェック〉 (1D100&lt;=68) ボーナス・ペナルティダイス[2] ＞ 23, 43, 23 ＞ 23 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC2&lt;=70　〈天文学〉 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 34, 64, 4 ＞ 4 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC2&lt;=67 【リアリティー・チェック】 (1D100&lt;=67) ボーナス・ペナルティダイス[2] ＞ 95, 5, 45 ＞ 5 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] いいことチケ : 1 → 2 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC4&lt;=70 【ナビゲート】 (1D100&lt;=70) ボーナス・ペナルティダイス[4] ＞ 61, 11, 21, 91, 91 ＞ 11 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 16 → 15 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC3&lt;=75 【リアリティチェック】 (1D100&lt;=75) ボーナス・ペナルティダイス[3] ＞ 86, 66, 96, 96 ＞ 66 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC2&lt;=75 【機械修理】 (1D100&lt;=75) ボーナス・ペナルティダイス[2] ＞ 64, 14, 34 ＞ 14 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d6 (1D6) ＞ 6
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ビルド : 21 → 23 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC2&lt;=66 (1D100&lt;=66) ボーナス・ペナルティダイス[2] ＞ 21, 11, 51 ＞ 11 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=65 サバイバル（洋上） (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 54 ＞ 54 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC2&lt;=65 サバイバル（洋上） (1D100&lt;=65) ボーナス・ペナルティダイス[2] ＞ 87, 47, 17 ＞ 17 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 15 → 16 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(KPぱさ,征服：踊..)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        何が起きてもおかしくないぜ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）：幸運6使用により成功へ】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 87 ＞ 87 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] 幸運 : 69 → 63 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ださいぜ………… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「悪魔の岩礁」<br>調査技能：〈聞き耳〉〈オカルト〉 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        なで 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        しく 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        よちよち 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→チェックポイント<br>征服→<br>隷属→自分<br>商売→自分<br>信仰→商売<br>NPC→チェックポイント 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 93 ＞ 93 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=44 【オカルト】 (1D100&lt;=44) ボーナス・ペナルティダイス[0] ＞ 50 ＞ 50 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=70 知識 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 4 ＞ 4 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] いいことチケ : 2 → 1 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        惜しい 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 20 ＞ 20 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：隷属 「西欧人が何をしたか」<br>・深度３<br>　西欧人たちの虐殺の背景には、謎めく「もうひとつの原住民族」の存在が噂されている。<br>　彼らは新世界で何と出会ったのか。インディオ以外の原住民とは、一体……？<br>　※今後、「未知の調査」判定に常時ボーナス・ダイス+1 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：商売「呪われた黄金」<br>調査技能：オカルト、鑑定<br>・深度３<br>　コロンブスは、インドの陸地探索では黄金を見つけられなかったという。<br>　また、インディオたちが持っていた金の量も微々たるものだったらしい。<br>　ならば、この黄金の出どころは？　まさか海底にでもあるというのか？<br>　※今後、〈オカルト〉か〈鑑定〉での判定に一度だけボーナス・ダイス+2 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        もっと早く開けれてれば…！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        これ意味がなくなっちゃうので、<br>「＜オカルト＞か＜鑑定＞の判定を知識で行える」にしてください。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        重ね重ねすみません…… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        あ、でもそれでも割に合わないな…… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        うーん、それプラスボーナスダイス+2でお願いします 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        全然です！温情いっぱいうれしい！ありがとうございます！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        「＜オカルト＞か＜鑑定＞の判定を知識で代用でき、その場合ボーナスダイス+2」とさせてください！すみません！ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        全ての罪を謎の原住民に擦り付けタイム！ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=40 【聞き耳】 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 34 ＞ 34 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC 聞き耳20 1D100 ＞ 72
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        了解です！丁寧にありがとうございます！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「悪魔の岩礁」<br>調査技能：〈聞き耳〉〈オカルト〉<br>・深度１<br>　水中から、くぐもった歌声が聞こえる。「イア　イア　クトゥルフ　フタグン」<br>　その歌は、先ほど若きインディオたちが歌っていたものと同じものだ。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=50 【聞き耳】 (1D100&lt;=50) ボーナス・ペナルティダイス[0] ＞ 32 ＞ 32 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        「悪魔の岩礁」深度2情報開示から<br>4/9 23:00~ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100 (1D100) ＞ 23
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO信仰..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        出航前にできたらやること：アルバさんに神について訊ねる(できたらついでに勧誘する) 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 361[27,68,40,3,1,49,86,52,4,31] ＞ 361
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+         
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ・深度２<br>　岩礁に、水中から這い上がってくる複数の人影を目撃する。<br>　その顔は目が飛び出し、鱗に覆われた魚ヅラで、手足には水かきがついていた。<br>　彼らは君たちの船の存在に気づくと、一斉に泳いで近づいてくる！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        これをアルバがきがつくのほんま 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ほんま……………………………… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        は～～～～～～～～～～～～～～～～～～～～～ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ぱんちぱんち 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 514[91,2,53,100,5,64,66,43,2,88] ＞ 514
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 45 ＞ 45 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        さすがに今は対抗できない 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ので、逃げ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        KPKP、さっきのはあいつらですか？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        そうですね、共通している点が多く感じられます。<br>少なくとも同じ種族だとわかっていいです 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        やった～～ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO2：..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ゼッタイニ・コロス (124～1864) 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC2&lt;=50 【聞き耳】 (1D100&lt;=50) ボーナス・ペナルティダイス[2] ＞ 86, 66, 76 ＞ 66 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC2&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 58, 28, 68 ＞ 28 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC2&lt;=40 【聞き耳】 (1D100&lt;=40) ボーナス・ペナルティダイス[2] ＞ 36, 86, 76 ＞ 36 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC2&lt;=70 【聞き耳】 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 51, 1, 41 ＞ 1 ＞ クリティカル
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC2&lt;=50 聞き耳 (1D100&lt;=50) ボーナス・ペナルティダイス[2] ＞ 98, 88, 78 ＞ 78 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→ナビゲート<br>征服→アクシデント不和<br>隷属→アクシデントストーム<br>商売→アクシデント虫<br>信仰→アクシデントネズミ<br>NPC→天文学 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC2&lt;=80　【DEX】 (1D100&lt;=80) ボーナス・ペナルティダイス[2] ＞ 2, 52, 52 ＞ 2 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC2&lt;=70 機械修理 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 40, 40, 20 ＞ 20 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] いいことチケ : 1 → 2 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC2&lt;=70 【威圧】 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 59, 39, 59 ＞ 39 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC2&lt;=80 【自然】 (1D100&lt;=80) ボーナス・ペナルティダイス[2] ＞ 36, 66, 16 ＞ 16 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈天文学〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 88 ＞ 88 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC2&lt;=70　〈天文学〉 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 68, 78, 38 ＞ 38 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC2&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[2] ＞ 2, 32, 32 ＞ 2 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 16 → 15 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] いいことチケ : 0 → 1 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        わ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        あー 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        あーーー嫌な予感するな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        あなたの船もあるかもしれませんね 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ﾔﾞ!!!!!!!!!!!!!!! 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「船の墓場サルガッソー」<br>調査技能：〈鑑定〉〈機械修理〉〈操縦（船）〉 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→<br>征服→<br>隷属→<br>商売→<br>信仰→NPC<br>NPC→ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【説得】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 31 ＞ 31 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO3風..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        ☆クルー「アメリゴ・ヴェスプッチ」<br>調査技能：対人関係技能<br><br>・深度２<br>　航海中、船の業務をほとんど手伝わないのは、四六時中測量をしているため。<br>　王命に、それほど正確な測量を要する業務は含まれていないはずだが。<br><br>・深度３<br>　修道僧である叔父に師事しており、その教えを受け継いだアメリゴも敬虔な信徒だ。<br>　しかし学問の研究を深めるうちに、「教会」の姿勢に対しては<br>　ある種の不信感を持つようになったらしい。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆クルー「アメリゴ・ヴェスプッチ」<br>調査技能：対人関係技能<br><br>・深度２<br>　航海中、船の業務をほとんど手伝わないのは、四六時中測量をしているため。<br>　王命に、それほど正確な測量を要する業務は含まれていないはずだが。<br><br>・深度３<br>　修道僧である叔父に師事しており、その教えを受け継いだアメリゴも敬虔な信徒だ。<br>　しかし学問の研究を深めるうちに、「教会」の姿勢に対しては<br>　ある種の不信感を持つようになったらしい。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 77 ＞ 77 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC1&lt;=11 【操縦（船）】 (1D100&lt;=11) ボーナス・ペナルティダイス[1] ＞ 14, 64 ＞ 14 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=70 機械修理 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 86 ＞ 86 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=76 【操縦（船）】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 44 ＞ 44 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        セラさん、一応なんですが鑑定を知識で代用＋ボーナスダイス+2できますよ～ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 68 ＞ 68 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC2&lt;=70 知識 (1D100&lt;=70) ボーナス・ペナルティダイス[2] ＞ 19, 39, 39 ＞ 19 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「船の墓場サルガッソー」<br>調査技能：〈鑑定〉〈機械修理〉〈操縦（船）〉<br>・深度１<br>　ここは、沈没し行方不明になった船が流れ着く「魔の海」の伝承の地に違いない。<br>　粘つく海面にとらわれ、フナクイムシに船体を食い荒らされ、<br>　腐った船たちはここでゆっくりと死にゆくのだという。<br>　船乗りにとっての悪夢そのものだ。〈正気度〉ロール（0／1D4）<br><br>・深度２<br>　沈んでいる船の中に、現在の技術では再現不可能な、<br>　未来の船としか思えぬようなものも見つかった。<br>　その技術の中で辛うじて理解できたものを拝借し、船の機動性が向上。MOV+1D3<br><br>・深度３<br>　鋼鉄の巨大船に搭載されてあった、奇妙な砲の弾頭を手に入れた。禍々しい気配がする……。<br>　消費アイテム「叡智の弾頭」１つ入手。〈砲〉で使用。回避不可。<br>　5D10ビルド・ダメージを与えるが、使用者は〈正気度〉を1D100失う。 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d100&lt;=67 【正気度ロール】 (1D100&lt;=67) ＞ 90 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=66 正気度ロール (1D100&lt;=66) ボーナス・ペナルティダイス[0] ＞ 99 ＞ 99 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d100&lt;=75 【正気度ロール】 (1D100&lt;=75) ＞ 17 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100&lt;=72 【正気度ロール】 (1D100&lt;=72) ＞ 74 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d4 (1D4) ＞ 1
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 67 → 66 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D4 (1D4) ＞ 4
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        1D4 (1D4) ＞ 3
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] SAN : 72 → 68 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=68　〈正気度〉 (1D100&lt;=68) ボーナス・ペナルティダイス[0] ＞ 93 ＞ 93 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 66 → 63 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        1d4 (1D4) ＞ 2
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アメリゴ・ヴェスプッチ ] SAN : 68 → 66 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D3 【MOV+】 (1D3) ＞ 2
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] MOV : 10 → 12 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        お船ある？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        幸運か目星 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=65 【目星】 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 94 ＞ 94 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=63 【幸運】 (1D100&lt;=63) ボーナス・ペナルティダイス[0] ＞ 28 ＞ 28 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        あります 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO3風..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        「いいえ？(私にはもう必要無いものですので)」 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [秘匿(HO3風..,KPぱさ)]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ﾋｲ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ちなみに遺体ってありました？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        アメリゴさんウキウキの巻 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        怖いこと言うじゃん急に 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ｼﾝｼﾞｮｳﾉﾄﾛｫ……… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ﾄﾛｼﾃｴﾗｲ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：征服「魚人海賊団」<br>調査技能：対人関係技能、戦闘技能<br>・深度１<br>　魚人たちの身体能力は人間よりも高い。また、水中で息継ぎもせずに自由に動き回れる。<br>　怪力で人を海に引きずり込んでは溺死させる戦法をとってくる。<br><br>・深度２<br>　魚人たちは、海底に棲む異形の神と取引をして「不死」になったという噂がある。<br><br>・深度３<br>　不死の怪物である彼らも、元々は「人間」だったらしい。<br>　彼らに不死性を与えている神の力を断ち切りさえすれば、征服可能なはずだ。<br>　※今後、〈砲〉または〈戦闘技能〉での判定に一度だけボーナス・ダイス+2 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        骨とかくらいかな 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        あるならよし！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ないなら覚悟決めなきゃいけないので…… 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：信仰「新大陸仮説」<br>調査技能：オカルト、聞き耳<br>・深度１<br>　コロンブスが発見したのは、アジア・アフリカ・ヨーロッパのいずれにも属さない新大陸であるという仮説。教会の教えを否定する異端の説だ。<br><br>・深度２<br>　仮説の出どころが判明した。アメリゴ・ヴェスプッチだ。<br>　彼は教会への反逆者であり、本当の目的を隠して王室に取り入っている。<br>　彼を懐柔するか、始末するべきか。注意深く様子を見る必要がある。<br><br>・深度３<br>　そもそも、三大陸世界観は真実なのか。<br>　調べれば調べるほど、三大陸世界観は古代からの伝統的な価値観のみに立脚しており、<br>　これが神の教えとする根拠がほとんど見当たらない。<br>　人が強く信じ込んでいるだけの無根拠なものなのではないか？<br>　※今後、あなたは一度だけ「狂気」を打ち消すことができる。<br> 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        宿題：次回までにどうやってゲロるか考える<br>せめて未知については共有 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        4/11 23:00~ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=75 【機械修理】 (1D100&lt;=75) ボーナス・ペナルティダイス[0] ＞ 29 ＞ 29 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100 (1D100) ＞ 78
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 445[34,47,72,6,53,46,19,47,96,25] ＞ 445
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100 (10D100) ＞ 728[52,95,79,78,45,97,67,97,50,68] ＞ 728
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        10d100 (10D100) ＞ 726[81,87,57,72,50,59,75,97,83,65] ＞ 726
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        10D100 (10D100) ＞ 529[97,94,57,28,28,31,68,4,70,52] ＞ 529
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        10d100 (10D100) ＞ 723[97,60,59,85,61,83,90,21,88,79] ＞ 723
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        10D100 (10D100) ＞ 634[74,13,66,83,74,93,66,41,84,40] ＞ 634
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        KPにごめんなさいという顔をしています（キャラシに書き忘れていた顔） 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        これだ！！！！！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>　</span> :
+      <span>
+        今回はまあ多分大丈夫です 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        これだ～！！！！！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        しょうじきだなぁ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        わろてる？？？！？！？！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        マカナちゃんわろてなかった？！？？！？！？！？！？！！！！！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：隷属 「西欧人が何をしたか」<br>調査技能：聞き耳、対人関係技能<br>・深度１<br>　西欧人とインディオたちのファーストコンタクトは、比較的良好なものであった。<br>　しかし、インディオたちが奴隷として連れて帰られたころから関係が悪化してきた。<br><br>・深度２<br>　ある時期を境に、西欧人たちはインディオの統治に暴力を駆使するようになった。<br>　噂によると、虐殺された部族もあるらしい。<br><br>・深度３<br>　西欧人たちの虐殺の背景には、謎めく「もうひとつの原住民族」の存在が噂されている。<br>　彼らは新世界で何と出会ったのか。インディオ以外の原住民とは、一体……？<br>　※今後、「未知の調査」判定に常時ボーナス・ダイス+1 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆HO：商売「呪われた黄金」<br>調査技能：オカルト、鑑定<br>・深度１<br>　コロンブスが「インドに黄金の国ジパングを見つけた」と主張し、<br>　そこから持ち帰った黄金の数々。その多くが海洋生物を模した黄金像だった。<br><br>・深度２<br>　コロンブスから黄金を受け取った王侯貴族たちも、呪いにかかっている。<br>　王命による今回の航海の真の目的は、この呪いの原因解明だろう。<br><br>・深度３<br>　コロンブスは、インドの陸地探索では黄金を見つけられなかったという。<br>　また、インディオたちが持っていた金の量も微々たるものだったらしい。<br>　ならば、この黄金の出どころは？　まさか海底にでもあるというのか？<br>　※今後、＜オカルト＞か＜鑑定＞の判定を知識で代用でき、その場合ボーナスダイス+2 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        「教会の世界観を肯定しつつ新大陸であった」と言う方法を考えていたぼく 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100&lt;=68 【正気度ロール】 (1D100&lt;=68) ＞ 65 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d100&lt;=75 【正気度ロール】 (1D100&lt;=75) ＞ 97 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d100&lt;=66 【正気度ロール】 (1D100&lt;=66) ＞ 19 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=63 正気度ロール (1D100&lt;=63) ボーナス・ペナルティダイス[0] ＞ 76 ＞ 76 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1d100&lt;=77 【正気度ロール】 (1D100&lt;=77) ＞ 68 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] SAN : 68 → 67 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d4 (1D4) ＞ 3
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        1D4 (1D4) ＞ 1
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 66 → 65 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        :SAN 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 63 → 62 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] SAN : 75 → 71 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] SAN : 71 → 72 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=66　〈正気度〉 (1D100&lt;=66) ボーナス・ペナルティダイス[0] ＞ 28 ＞ 28 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] SAN : 77 → 76 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アメリゴ・ヴェスプッチ ] SAN : 66 → 65 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ヘルス : 1 → 0 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 15 → 13 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d100&lt;=65 【正気度ロール】 (1D100&lt;=65) ＞ 78 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d100&lt;=72 【正気度ロール】 (1D100&lt;=72) ＞ 74 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        1d100&lt;=76 【正気度ロール】 (1D100&lt;=76) ＞ 7 ＞ 成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100&lt;=67 【正気度ロール】 (1D100&lt;=67) ＞ 72 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=62 正気度ロール (1D100&lt;=62) ボーナス・ペナルティダイス[0] ＞ 63 ＞ 63 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D8 (1D8) ＞ 5
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        1d8 (1D8) ＞ 4
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1ｄ8 (1D8) ＞ 7
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        1D8 (1D8) ＞ 7
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] SAN : 67 → 62 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=65　〈正気度〉 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 15 ＞ 15 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] SAN : 72 → 68 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 62 → 54 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 65 → 58 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ヌールハーン ] SAN : 54 → 55 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【アイデア】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 27 ＞ 27 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=80 【アイデア】 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 63 ＞ 63 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        BMR 狂気の発作（リアルタイム）(9) ＞ 恐怖症：探索者は新しい恐怖症に陥る。恐怖症表（PHコマンド）をロールするか、キーパーが恐怖症を1つ選ぶ。恐怖症の原因は存在しなくとも、その探索者は次の1D10ラウンドの間、それがそこにあると思い込む。(1D10＞9ラウンド)
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        BMR 狂気の発作（リアルタイム）(4) ＞ 偏執症：探索者は1D10ラウンドの間、重い偏執症に襲われる。誰もが探索者に襲い掛かろうとしている。信用できる者はいない。監視されている。裏切ったやつがいる。これはわなだ。(1D10＞5ラウンド)
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        BMR 狂気の発作（リアルタイム）(3) ＞ 暴力衝動：赤い霧が探索者に降り、1D10ラウンドの間、抑えの利かない暴力と破壊を敵味方を問わず周囲に向かって爆発させる。(1D10＞7ラウンド)
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        虫恐怖症：9ラウンド 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [雑談]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        とりあえず目の前の食べ物は床に叩き落として踏みつけます 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ﾋﾟｬ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        (それはそうなのである) 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【幸運】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 59 ＞ 59 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        「う、うわぁぁぁっっ！！」って大の男がご飯に怯えている 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        かわいい 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ＞＞ご飯に怯える＜＜<br> 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>　</span> :
+      <span>
+        choice(表,裏) (choice(表,裏)) ＞ 表
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        choice(表,裏) (choice(表,裏)) ＞ 裏
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,セラ)]</span>
+      <span>　</span> :
+      <span>
+        ❏HO：商売<br>裏：「黄金（秘蔵の品）」を「黄金の呪い（負傷・傷跡）」へ修正し、具体的な体調不良を一つ書き加える。 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        choice(表,裏)  (choice(表,裏)) ＞ 裏
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        ❏HO：隷属<br>裏：「君を買った主人（重要な人々）」を「這い寄る混沌（重要な人々）」へ修正する。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        choice[表,裏] 【狂気！】 (choice[表,裏]) ＞ 表
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        ❏HO：征服<br>表：「新天地の征服と統治（イデオロギー／信念）」を「侵略されることへの恐怖（恐怖症）」へ修正する。 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        どういうこと！？にゃ！？！？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        恐怖症四つ目？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        「重要な人々」が変わりますね 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ウケるな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        はいよる混沌に、以前主人へ向けていたような感情を向けるようになるかもしれません 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        そうね 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        おもしろいですね 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        どういうこと 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        イデオロギーの「新天地の征服と統治（イデオロギー／信念）」を消して、新しく恐怖症に追加したらいい？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        キーコネクションが無くなった 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        これは主人への感情はなくなるということですか？ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        それでニャルラトホテプを恩人に思うと…？ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        どちらでもいいです。空っぽになってもいいですし、少しだけなら残っていても 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        わぁ～！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>　</span> :
+      <span>
+        ただ以前とは確実に差があるでしょうね 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        キーコネってないままでいいんだっけ？ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        感情なくなると呪いの解呪方法を探す意味がマカナにとって薄くなるので、多少残します！ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        であったことのないニャルを恩人に思うの何…？マカナ狂信者化…？ 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [秘匿(KPぱさ,隷属)]</span>
+      <span>マカナ</span> :
+      <span>
+        ニャル様が主人を使わせてくれました＝<br>これで行こう。面白い 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ヘルス : 0 → -1 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>　</span> :
+      <span>
+        征服→技能値に-15<br>商売→技能に失敗すると自分か他にダメージ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        探究→<br>征服→アクシデント無風<br>隷属→アクシデント無風<br>商売→アクシデント浸水<br>信仰→ヘルス<br>NPC→天文学 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC-1&lt;=75 【医学】 (1D100&lt;=75) ボーナス・ペナルティダイス[-1] ＞ 20, 40 ＞ 40 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ヘルス : -1 → 0 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=66 【操縦（船）】 (1D100&lt;=66) ボーナス・ペナルティダイス[0] ＞ 96 ＞ 96 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Fausto･Iglesia  ] いいことチケ : 2 → 1 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=66 【操縦（船）】 (1D100&lt;=66) ボーナス・ペナルティダイス[0] ＞ 90 ＞ 90 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=66 【操縦（船）：プッシュ】 (1D100&lt;=66) ボーナス・ペナルティダイス[0] ＞ 64 ＞ 64 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=80 【自然】 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 33 ＞ 33 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=70 機械修理 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 55 ＞ 55 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈天文学〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 6 ＞ 6 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[1] ＞ 67, 47 ＞ 47 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] 食糧 : 13 → 12 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] ヘルス : 0 → -2 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        コロンブスの顔よすぎでは 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        「ｵﾏｴﾓﾅｰ!」 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        半角カタカナウケる 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        「ﾅﾝｶ､ｷﾓｲﾉｼｮｯﾃﾙｿﾞｰ!」 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        「ﾀﾞｲｼﾞｮﾌﾞｶｰ!?」 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ﾀﾞｲｼﾞｮﾌﾞｼﾞｬﾅｰｲ! 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        だいじょうぶじゃないです 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        こわい！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        正しく「侵略される恐怖」だろうに。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ｱｶｰﾝ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ｱｰ!ﾙﾙｲｴ!! 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        ﾙﾙｲｴﾔﾀﾞｰ! 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [雑談]</span>
+      <span>マカナ</span> :
+      <span>
+        ｲﾛｲﾛﾏｼﾞｯﾃﾙｰ 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        不浄だか浮上だか知らんが止めれ～！ 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        友達がなんか変になっちゃった 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        おおよしよし… 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        なで 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        真実の光が海に沈む～～！！！！ 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ★チェイスMAPとバリアー（障壁）<br>大渦の影響範囲には、バリアー突破難易度と、大渦ダメージの数値が記載されている。<br>全てのバリアーの突破技能は〈操縦（船）〉。<br>バリアーを突破できなかった場合、移動アクションに失敗する。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ★準備：チェイスの確定と速度ロール（ルールブックp128）<br>チェイスを行うのは船ユニットだけだ。<br>速度ロールを行うのは「地球号」のみ。（敵船はMOV値固定とする。）<br>使用する技能は船長の〈対人関係技能〉〈操縦（船）〉〈ナビゲート〉のいずれかだ。<br>イクストリーム成功以上ならMOV+1。失敗ならMOV-1。 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 10 ＞ 10 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>system</span> :
+      <span>
+        [ 真実の光 ] MOV : 12 → 13 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        ・サンタマリア号：1回<br>・ピンタ号：3回<br>・ニーニャ号：3回<br>・地球号：（MOV-7）回　→6回 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「クリストファー・コロンブス」<br>調査技能：〈正気度〉<br>コロンブスのおぞましい言葉に耳を傾け、彼の中に潜む未知を引きずり出す。<br>この〈正気度〉ロールで失われる正気度は1D3／1D6。 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        〈近接戦闘〉や〈射撃〉は隣接マスまでにいる相手にしか届かない。<br>〈砲〉による攻撃は距離を無視して行うことができるが、隣接マスより1マス離れるごとにペナルティー・ダイスが+1されていく。（同じマス～隣接マスまではペナルティなし） 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=62 【リアリティー・チェック】 (1D100&lt;=62) ボーナス・ペナルティダイス[0] ＞ 13 ＞ 13 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=58 【リアリティー・チェック】 (1D100&lt;=58) ボーナス・ペナルティダイス[0] ＞ 16 ＞ 16 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=76 【リアリティチェック】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 39 ＞ 39 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=68 【リアリティチェック】 (1D100&lt;=68) ボーナス・ペナルティダイス[1] ＞ 77, 37 ＞ 37 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=55 (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 22 ＞ 22 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        隷属→未知<br>信仰→芸術<br>探究→ナビゲート<br>商売→ディレイ回復<br>征服→操舵<br>NPC→ナビゲート 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC1&lt;=58 【リアリティー・チェック】 (1D100&lt;=58) ボーナス・ペナルティダイス[1] ＞ 57, 87 ＞ 57 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1ｄ3 (1D3) ＞ 3
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 58 → 55 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        BMR 狂気の発作（リアルタイム）(1) ＞ 健忘症：探索者は、最後に安全な場所にいた時からあとに起こった出来事の記憶を持たない。例えば、朝食を食べていた次の瞬間には怪物と向かい合っている。これは1D10ラウンド続く。(1D10＞9ラウンド)
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>　</span> :
+      <span>
+        ☆未知「クリストファー・コロンブス」<br>調査技能：〈正気度〉<br>・深度１<br>「黄金に込められたのは呪いではない。祝福だ。神の慈悲深い救いの手だ。<br>　だが、王たちはそれを拒んだ！　それが過ちだったと今に分かる！」 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【芸術（絵画）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 60 ＞ 60 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 56 ＞ 56 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ピンタ号</span> :
+      <span>
+        CC-3&lt;=50　〈砲〉 (1D100&lt;=50) ボーナス・ペナルティダイス[-3] ＞ 58, 8, 88, 98 ＞ 98 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈ナビゲート〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 4 ＞ 4 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        X6<br>CC2&lt;=81 【操縦（船）】 #1
+(1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 45, 5, 65 ＞ 5 ＞ イクストリーム成功
+
+#2
+(1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 29, 9, 59 ＞ 9 ＞ イクストリーム成功
+
+#3
+(1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 64, 14, 64 ＞ 14 ＞ イクストリーム成功
+
+#4
+(1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 94, 44, 44 ＞ 44 ＞ レギュラー成功
+
+#5
+(1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 50, 70, 40 ＞ 40 ＞ ハード成功
+
+#6
+(1D100&lt;=81) ボーナス・ペナルティダイス[2] ＞ 52, 22, 62 ＞ 22 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ Alba・Costa ] いいことチケ : 0 → 1 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=25 近接戦闘（格闘） (1D100&lt;=25) ボーナス・ペナルティダイス[0] ＞ 45 ＞ 45 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>大渦</span> :
+      <span>
+        CC&lt;=80　〈吸引〉 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 57 ＞ 57 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 56 ＞ 56 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=70　〈操縦（船）〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 29 ＞ 29 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ニーニャ号</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 51 ＞ 51 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ピンタ号</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 47 ＞ 47 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ニーニャ号</span> :
+      <span>
+        1d6 (1D6) ＞ 1
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ニーニャ号 ] ビルド : 15 → 14 
+      </span>
+    </p>
+        
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=62 【リアリティー・チェック】 (1D100&lt;=62) ボーナス・ペナルティダイス[0] ＞ 59 ＞ 59 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=55 【リアリティー・チェック】 (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 98 ＞ 98 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=76 【リアリティチェック】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 98 ＞ 98 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=65　〈リアリティーチェック〉 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 17 ＞ 17 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=68 【リアリティチェック】 (1D100&lt;=68) ボーナス・ペナルティダイス[1] ＞ 90, 100 ＞ 90 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=55  (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 52 ＞ 52 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>真実の光</span> :
+      <span>
+        隷属→未知<br>信仰→ディレイ<br>探究→ナビゲート<br>商売→ディレイ<br>征服→操舵<br>NPC→ナビゲート 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=55 【リアリティー・チェック】 (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 23 ＞ 23 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1ｄ3 (1D3) ＞ 2
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ マカナ ] SAN : 55 → 53 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [情報]</span>
+      <span>真実の光</span> :
+      <span>
+        ・深度２<br>「これから時代が変わる。世界が丸ごと作り替えられる。かの地を中心として。<br>　その激動の中で、旧人類の多くは死ぬ運命（さだめ）にある。<br>　生き延びたければ、人も進化しなければならない。新人類として！<br>　救いの手を取れ。黄金の祝福を受け取れ！<br>　さすれば与えられるだろう……生命の樹の実が！　死なぬ身体が！<br>　そう！　海底に住まう彼らのように！！」<br>　コロンブスは、人類を不死の存在……「深きものども」にしようとしている！<br><br>・深度３<br>「かの地の原住民たちは知っていた。神の存在を。<br>　だが付き合い方を間違えていた。彼らは愚かにも変わることを恐れ、未知に蓋をし、<br>　旧時代的な呪術で黄金の力を封じ込めていた！」<br>　《旧き印》には、呪いや不死を無効化する力がある！ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        殺　ら　ね　ば 
+      </span>
+    </p>
+        
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        侵略される恐怖は叩き潰さなきゃ…… 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC-1&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[-1] ＞ 92, 32 ＞ 92 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈ナビゲート〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 33 ＞ 33 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ピンタ号</span> :
+      <span>
+        CC-1&lt;=50　〈砲〉 (1D100&lt;=50) ボーナス・ペナルティダイス[-1] ＞ 28, 38 ＞ 38 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC1&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[1] ＞ 11, 11 ＞ 11 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>サンタ・マリア号</span> :
+      <span>
+        CC-1&lt;=60　〈砲〉 (1D100&lt;=60) ボーナス・ペナルティダイス[-1] ＞ 40, 60 ＞ 60 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC1&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[1] ＞ 45, 45 ＞ 45 ＞ レギュラー成功
+      </span>
+    </p>
+        
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D100 (1D100) ＞ 88
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>サンタ・マリア号</span> :
+      <span>
+        4/23 23:00~<br>2R目 残り行動総舵手・大渦 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        10D100  (10D100) ＞ 412[16,14,99,9,70,93,48,41,9,13] ＞ 412
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        10D100 (10D100) ＞ 614[35,100,26,88,62,53,97,71,77,5] ＞ 614
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [雑談]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        ふぁん…ぶる…？ 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        なで 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        二個あんな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=70　〈操縦（船）〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 87 ＞ 87 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 76 ＞ 76 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>大渦</span> :
+      <span>
+        CC&lt;=80　〈吸引〉 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 6 ＞ 6 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=81 【操縦（船）】 (1D100&lt;=81) ボーナス・ペナルティダイス[0] ＞ 78 ＞ 78 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>大渦</span> :
+      <span>
+        1d10 (1D10) ＞ 8
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ピンタ号 ] ビルド : 15 → 7 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        3R 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        3D100  (3D100) ＞ 186[44,84,58] ＞ 186
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=53 【リアリティー・チェック】 (1D100&lt;=53) ボーナス・ペナルティダイス[0] ＞ 51 ＞ 51 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=65　〈リアリティーチェック〉 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 68 ＞ 68 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=76 【リアリティチェック】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 67 ＞ 67 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=68 【リアリティチェック】 (1D100&lt;=68) ボーナス・ペナルティダイス[1] ＞ 48, 8 ＞ 8 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=68 【リアリティチェック】 (1D100&lt;=68) ボーナス・ペナルティダイス[1] ＞ 93, 13 ＞ 13 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=55  (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 29 ＞ 29 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=62 【リアリティー・チェック】 (1D100&lt;=62) ボーナス・ペナルティダイス[0] ＞ 39 ＞ 39 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【近接戦闘（刀剣）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 68 ＞ 68 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=30　〈回避〉 (1D100&lt;=30) ボーナス・ペナルティダイス[0] ＞ 45 ＞ 45 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        1d6+1D4 【ダメージ判定】 (1D6+1D4) ＞ 3[3]+3[3] ＞ 6
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ クリストファー・コロンブス ] HP : 12 → 6 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=60　〈CON〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 24 ＞ 24 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=60　〈射撃（マスケット銃）〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 62 ＞ 62 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=70 【近接戦闘（斧）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 53 ＞ 53 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=30　〈回避〉 (1D100&lt;=30) ボーナス・ペナルティダイス[0] ＞ 48 ＞ 48 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        1D8+1D6  【ダメージ判定】 (1D8+1D6) ＞ 2[2]+1[1] ＞ 3
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ クリストファー・コロンブス ] HP : 6 → 3 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=10 【心理学】 (1D100&lt;=10) ボーナス・ペナルティダイス[0] ＞ 1 ＞ 1 ＞ クリティカル
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ニーニャ号</span> :
+      <span>
+        CC&lt;=40　〈突撃〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 89 ＞ 89 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ピンタ号</span> :
+      <span>
+        CC-3&lt;=50　〈砲〉 (1D100&lt;=50) ボーナス・ペナルティダイス[-3] ＞ 43, 93, 63, 63 ＞ 93 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈ナビゲート〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 11 ＞ 11 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC-1&lt;=70　〈ナビゲート〉 (1D100&lt;=70) ボーナス・ペナルティダイス[-1] ＞ 28, 98 ＞ 98 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>サンタ・マリア号</span> :
+      <span>
+        CC&lt;=60　〈砲〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 92 ＞ 92 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        なんかかわいいし間が抜けるんだよな 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>だっくす</span> :
+      <span>
+        かわいい 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=50 【近接戦闘（格闘）】 (1D100&lt;=50) ボーナス・ペナルティダイス[0] ＞ 64 ＞ 64 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>ゆば</span> :
+      <span>
+        ひじょうにおきゃわいい 
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=25 近接戦闘（格闘） (1D100&lt;=25) ボーナス・ペナルティダイス[0] ＞ 19 ＞ 19 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=30　〈回避〉 (1D100&lt;=30) ボーナス・ペナルティダイス[0] ＞ 28 ＞ 28 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>大渦</span> :
+      <span>
+        CC&lt;=80　〈吸引〉 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 30 ＞ 30 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=76 【操縦（船）】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 83 ＞ 83 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=70　〈操縦（船）〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 26 ＞ 26 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ニーニャ号</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 46 ＞ 46 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ピンタ号</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 35 ＞ 35 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>大渦</span> :
+      <span>
+        1d12 (1D12) ＞ 8
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ ピンタ号 ] ビルド : 7 → -1 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        10d100 (10D100) ＞ 486[2,51,31,55,91,81,50,37,51,37] ＞ 486
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [雑談]</span>
+      <span>　</span> :
+      <span>
+        4R 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        4R 
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=53 【リアリティー・チェック】 (1D100&lt;=53) ボーナス・ペナルティダイス[0] ＞ 69 ＞ 69 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=62 【リアリティー・チェック】 (1D100&lt;=62) ボーナス・ペナルティダイス[0] ＞ 65 ＞ 65 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=76 【リアリティチェック】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 21 ＞ 21 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=68 【リアリティチェック】 (1D100&lt;=68) ボーナス・ペナルティダイス[1] ＞ 38, 58 ＞ 38 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=65　〈リアリティーチェック〉 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 94 ＞ 94 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=55  (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 83 ＞ 83 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC-1&lt;=70 【近接戦闘（刀剣）】 (1D100&lt;=70) ボーナス・ペナルティダイス[-1] ＞ 68, 88 ＞ 88 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=70　〈操縦（船）〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 71 ＞ 71 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=76 【操縦（船）】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 40 ＞ 40 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=60　〈射撃（マスケット銃）〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 28 ＞ 28 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=60 【回避】 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 54 ＞ 54 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        1D8　射撃ダメージ (1D8) ＞ 8
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] HP : 14 → 6 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] HP : 6 → 14 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] HP : 14 → 22 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] HP : 22 → 14 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=60 【回避】 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 85 ＞ 85 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>クリストファー・コロンブス</span> :
+      <span>
+        CC&lt;=60　〈射撃（マスケット銃）〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 99 ＞ 99 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=25 近接戦闘（格闘） (1D100&lt;=25) ボーナス・ペナルティダイス[0] ＞ 4 ＞ 4 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        1D8  (1D8) ＞ 5
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ クリストファー・コロンブス ] HP : 3 → 1 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=85　【STR】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 44 ＞ 44 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>深きものどもA</span> :
+      <span>
+        CC&lt;=70 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 94 ＞ 94 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70　〈ナビゲート〉 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 67 ＞ 67 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=70-1　〈ナビゲート〉 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC-1&lt;=70　〈ナビゲート〉 (1D100&lt;=70) ボーナス・ペナルティダイス[-1] ＞ 18, 88 ＞ 88 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>サンタ・マリア号</span> :
+      <span>
+        CC&lt;=60　〈砲〉 (1D100&lt;=60) ボーナス・ペナルティダイス[0] ＞ 45 ＞ 45 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=76 【操縦（船）】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 41 ＞ 41 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=70 【芸術（絵画）】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 41 ＞ 41 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>大渦</span> :
+      <span>
+        CC&lt;=80　〈吸引〉 (1D100&lt;=80) ボーナス・ペナルティダイス[0] ＞ 20 ＞ 20 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=76 【操縦（船）】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 3 ＞ 3 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>system</span> :
+      <span>
+        [ アントーニョ・ロドリゲス ] いいことチケ : 1 → 2 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ニーニャ号</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 76 ＞ 76 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>ニーニャ号</span> :
+      <span>
+        CC&lt;=40　〈操縦（船）〉 (1D100&lt;=40) ボーナス・ペナルティダイス[0] ＞ 95 ＞ 95 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>　</span> :
+      <span>
+        5R 
+      </span>
+    </p>
+    
+    <p style="color:#04c8c3;">
+      <span> [メイン]</span>
+      <span>Fausto･Iglesia </span> :
+      <span>
+        CC&lt;=76 【リアリティチェック】 (1D100&lt;=76) ボーナス・ペナルティダイス[0] ＞ 22 ＞ 22 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC1&lt;=68 【リアリティチェック】 (1D100&lt;=68) ボーナス・ペナルティダイス[1] ＞ 24, 74 ＞ 24 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=53 【リアリティー・チェック】 (1D100&lt;=53) ボーナス・ペナルティダイス[0] ＞ 6 ＞ 6 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [メイン]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        CC&lt;=62 【リアリティー・チェック】 (1D100&lt;=62) ボーナス・ペナルティダイス[0] ＞ 50 ＞ 50 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [メイン]</span>
+      <span>アメリゴ・ヴェスプッチ</span> :
+      <span>
+        CC&lt;=65　〈リアリティーチェック〉 (1D100&lt;=65) ボーナス・ペナルティダイス[0] ＞ 26 ＞ 26 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=55  (1D100&lt;=55) ボーナス・ペナルティダイス[0] ＞ 50 ＞ 50 ＞ レギュラー成功
+      </span>
+    </p>
+    
+    <p style="color:#607d8b;">
+      <span> [メイン]</span>
+      <span>マカナ</span> :
+      <span>
+        CC&lt;=70 【ナビゲート】 (1D100&lt;=70) ボーナス・ペナルティダイス[0] ＞ 11 ＞ 11 ＞ イクストリーム成功
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [雑談]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        3個 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [メイン]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        CC&lt;=85 【ナビゲート】 (1D100&lt;=85) ボーナス・ペナルティダイス[0] ＞ 28 ＞ 28 ＞ ハード成功
+      </span>
+    </p>
+    
+    <p style="color:#66ccff;">
+      <span> [メイン]</span>
+      <span>ヌールハーン</span> :
+      <span>
+        CC&lt;=10 (1D100&lt;=10) ボーナス・ペナルティダイス[0] ＞ 29 ＞ 29 ＞ 失敗
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        海に居ない俺は俺じゃない vs 海が怖い<br>　　　　　　　　 ＝ みんなと一緒が良い<br>  
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        こう 
+      </span>
+    </p>
+    
+    <p style="color:#888888;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>　</span> :
+      <span>
+        かわい 
+      </span>
+    </p>
+    
+    <p style="color:#e83830;">
+      <span> [秘匿(HO：征..,KPぱさ)]</span>
+      <span>Alba・Costa</span> :
+      <span>
+        かわいかも 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        choice(ついてく,ついてかない) (choice(ついてく,ついてかない)) ＞ ついてく
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        ちょっと離席します 
+      </span>
+    </p>
+    
+    <p style="color:#8bc34a;">
+      <span> [雑談]</span>
+      <span>アントーニョ・ロドリゲス</span> :
+      <span>
+        戻りました 
+      </span>
+    </p>
+    
+  </body>
+</html>
